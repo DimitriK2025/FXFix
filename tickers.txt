@@ -1,0 +1,89 @@
+# One Yahoo Finance ticker per line. Lines starting with # are ignored.
+# Swiss listings end .SW, London .L, Xetra .DE, Paris .PA, Amsterdam .AS, Tokyo .T, Hong Kong .HK.
+
+# Broad ETFs
+VTI
+VOO
+SPY
+IVV
+QQQ
+VT
+ACWI
+VXUS
+VEA
+VGK
+VWO
+IWM
+EFA
+SCHD
+VYM
+BND
+BNDX
+TLT
+GLD
+VNQ
+XLE
+
+# US stocks
+AAPL
+MSFT
+NVDA
+AMZN
+GOOGL
+META
+TSLA
+BRK-B
+JPM
+V
+MA
+UNH
+JNJ
+LLY
+XOM
+WMT
+PG
+KO
+COST
+NFLX
+AMD
+AVGO
+ORCL
+DIS
+BAC
+TSM
+BABA
+
+# Switzerland
+NESN.SW
+NOVN.SW
+RO.SW
+UBSG.SW
+ABBN.SW
+ZURN.SW
+CFR.SW
+LONN.SW
+SREN.SW
+HOLN.SW
+SIKA.SW
+CHSPI.SW
+
+# Europe and UK
+ASML.AS
+SAP.DE
+SIE.DE
+MC.PA
+NOVO-B.CO
+SHEL.L
+AZN.L
+HSBA.L
+IWDA.AS
+CSPX.L
+
+# Asia
+7203.T
+6758.T
+0700.HK
+005930.KS
+
+# Crypto
+BTC-USD
